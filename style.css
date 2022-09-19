@@ -57,18 +57,28 @@ aside {
     margin-left: 12%;
     width: 400px;
     height: 300px;
-    border: 5px red solid;
+
 }
 
 .final > img {
     margin-left: 12%;
     width: 400px;
     height: 300px;
-    border: 5px green solid;
+
 }
 
 iframe {
     margin-left: 12%;
     width: 400px;
     height: 300px;
+}
+
+.up {
+    border: red solid 5px;
+    height: 50%;
+}
+
+.down {
+    border: red solid 5px;
+    height: 50%;
 }
