@@ -18,6 +18,17 @@ hr {
     border: black solid 1px;
 }
 
+.red {
+    color:red;
+    font-size: 30px;
+}
+
+.title{
+    text-decoration: underline;
+    text-decoration-color: dimgrey;
+    text-decoration-thickness: 3px;
+}
+
 .head {
     border-bottom: 5px black solid;
     text-align: center;
@@ -42,8 +53,8 @@ aside {
 }
 
 .aside1 {
-    border: 5px yellow solid;
-    height: 1144px;
+    border: 5px black solid;
+    height: 1200px;
 }
 
 .ing > img {
