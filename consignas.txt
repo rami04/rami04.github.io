@@ -1,6 +1,5 @@
                     TRABAJO PRÁCTICO 1
 
-
 ● Crear un archivo HTML
 ● Contenido: Receta típica de una zona geográfica específica.
 
@@ -14,7 +13,6 @@ No pueden faltar los siguientes items:
 6. Insertar un audio (opcional)
 7. Insertar un mapa de la zona de procedencia de la receta.         
 8. subirlo a Github y entregar el link en la Plataforma Potrero Digital.
-
 
 
                     TRABAJO PRÁCTICO 2
@@ -31,3 +29,19 @@ Pueden utilizar las propiedades CSS que deseen, pero no pueden faltar las siguie
 5. Fondos (color o imagen)
 6. Tamaño de imagen (width- Heigth)
 7. Subirlo a Github y entregar el link en la Plataforma de Potrero Digital.
+
+
+                    TRABAJO PRÁCTICO 3
+
+● En base a la receta del Práctico 2:
+● Realizar un maquetado de la página
+
+1. Estructurar la página con las etiquetas semánticas (pueden utilizar contenedores div, pero dentro de estas etiquetas) header, nav, main, section, aside, footer...
+
+2. Crear un navegador con cuatro enlaces a paginas con otras recetas similares.(los enlaces se deben abrir en una pestaña nueva).
+
+3. En el footer deben colocar los enlaces a las redes sociales (preferiblemente con imágenes u iconos)
+
+4. Deben colocar un elemento flotante en la página con el icono de whatsapp. (pueden colocarle un enlace a un número de teléfono para enviar un whatsapp)
+
+5. Actualizar el repositorio de Github y entregar el link de la githubpage en la plataforma.

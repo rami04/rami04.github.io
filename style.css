@@ -1,13 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    background-color: burlywood;
     font-size: 20px;
-    padding: 10px 100px 0px;
+    padding: 0 50px 0;
     font-family: system-ui, Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: #dfdfdf;
+   
 }
 
 .cen {
     text-align: center;
     font-size: 25px;
+
 }
 
 hr {
@@ -38,6 +47,7 @@ hr {
     border: 5px black solid;
     padding: 15px;
     width: 55%;
+    background-color: slategrey;
 }
 
 span {
@@ -85,3 +95,52 @@ iframe {
     height: 230px;
 }
 
+.flot{
+    position: fixed;
+    top: 65%;
+    z-index: 20;
+    right: -15px;
+    top: 400px;
+}
+
+.wsp {
+    width: 100px;
+    height: auto;
+}
+
+.flot img {
+    float: right;
+    clear: right;
+    margin: 5px;
+    -moz-transform: scale(.8) ;
+    -webkit-transform: scale(.8) ;
+    -o-transform: scale(.8) ;
+    -ms-transform: scale(.8) ;
+    transform: scale(.8) ;
+    transition: all .2s ease-in-out;
+}
+
+.flot img:hover {
+    -moz-transform: scale(0.9) rotate(2deg);
+    -webkit-transform: scale(0.9) rotate(2deg);
+    -o-transform: scale(0.9) rotate(2deg);
+    -ms-transform: scale(0.9) rotate(2deg);
+    transform: scale(0.9) rotate(2deg);
+}
+
+footer img {
+    width: 50px;
+    height: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    color: wheat;
+    padding-left: 10px;
+    padding-right: 10px;
+}
